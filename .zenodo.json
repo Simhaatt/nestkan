@@ -1,0 +1,33 @@
+{
+  "title": "NestKAN: A Nested Kolmogorov–Arnold Model for Discrete-Time Survival Data: reproducibility package",
+  "creators": [
+    {
+      "name": "T. T., Simhaa",
+      "affiliation": "Department of Electrical and Electronics Engineering, Sri Sivasubramaniya Nadar College of Engineering, Chennai, Tamil Nadu, India",
+      "orcid": "0009-0006-9041-1103"
+    },
+    {
+      "name": "Kattumannil, Sudheesh Kumar",
+      "affiliation": "Applied Statistics Unit, Indian Statistical Institute, Chennai, Tamil Nadu, India"
+    }
+  ],
+  "description": "Code for NestKAN, a discrete-time hazard model that nests the grouped Cox model, an additive spline model and a gated Kolmogorov–Arnold network surface. Includes the dkan library, all benchmark, simulation, interpretability and robustness analysis scripts, and the pre-registration protocols (v5–v8). Code only; third-party datasets are not redistributed.",
+  "keywords": [
+    "discrete-time survival analysis",
+    "functional ANOVA",
+    "grouped proportional hazards",
+    "Kolmogorov-Arnold networks",
+    "non-proportional hazards",
+    "reproducibility"
+  ],
+  "version": "1.0.0",
+  "upload_type": "software",
+  "license": "cc-by-4.0",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/Simhaatt/nestkan",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

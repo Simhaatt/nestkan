@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+*.zip
+*.log
+*.pt
+*.pth
+*.ckpt
+data/*
+!data/README.md
+results/
+figures/
+tmp/
+pylib/
+pylib_ck/

@@ -1,0 +1,15 @@
+[build-system]
+requires = ["setuptools>=61"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dkan"
+version = "1.0.0"
+description = "NestKAN: nested Kolmogorov-Arnold hazard models for discrete-time survival data"
+requires-python = ">=3.10"
+license = {text = "CC-BY-4.0"}
+authors = [{name = "Simhaa T. T."}, {name = "Sudheesh Kumar Kattumannil"}]
+dependencies = ["torch", "numpy", "pandas", "scipy", "scikit-learn", "scikit-survival", "lifelines", "SurvSet"]
+
+[tool.setuptools.packages.find]
+where = ["src"]

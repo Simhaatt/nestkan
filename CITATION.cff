@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the archived release using the DOI on its Zenodo record."
+type: software
+title: "NestKAN: A Nested Kolmogorov–Arnold Model for Discrete-Time Survival Data: reproducibility package"
+authors:
+  - given-names: "Simhaa"
+    family-names: "T. T."
+    orcid: "https://orcid.org/0009-0006-9041-1103"
+    affiliation: "Department of Electrical and Electronics Engineering, Sri Sivasubramaniya Nadar College of Engineering, Chennai, Tamil Nadu, India"
+  - given-names: "Sudheesh Kumar"
+    family-names: "Kattumannil"
+    affiliation: "Applied Statistics Unit, Indian Statistical Institute, Chennai, Tamil Nadu, India"
+version: 1.0.0
+# date-released: YYYY-MM-DD        # set when the GitHub release is published
+# doi: 10.5281/zenodo.XXXXXXX      # fill in after Zenodo archives the release; never invent a DOI
+repository-code: https://github.com/Simhaatt/nestkan
+license: CC-BY-4.0
+keywords:
+  - discrete-time survival analysis
+  - functional ANOVA
+  - grouped proportional hazards
+  - Kolmogorov-Arnold networks
+  - non-proportional hazards

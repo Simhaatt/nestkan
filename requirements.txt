@@ -1,0 +1,13 @@
+# Versions used for the paper (Python 3.11). Install torch first (CPU build is sufficient).
+torch==2.14.1
+numpy==2.4.6
+pandas==2.3.3
+scipy==1.17.1
+scikit-learn==1.9.1
+scikit-survival==0.28.0
+lifelines==0.30.3
+SurvSet==0.2.11
+matplotlib==3.11.2
+sympy==1.14.0
+# Optional, for the official CoxKAN comparator only (install with --no-deps):
+#   coxkan==0.0.2  pykan==0.0.2
