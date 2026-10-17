@@ -1,5 +1,5 @@
 cff-version: 1.2.0
-message: "If you use this software, please cite the archived release using the DOI on its Zenodo record."
+message: "If you use this software, please cite it using the metadata below."
 type: software
 title: "NestKAN: A Nested Kolmogorov–Arnold Model for Discrete-Time Survival Data: reproducibility package"
 authors:
@@ -11,8 +11,8 @@ authors:
     family-names: "Kattumannil"
     affiliation: "Applied Statistics Unit, Indian Statistical Institute, Chennai, Tamil Nadu, India"
 version: 1.0.0
-# date-released: YYYY-MM-DD        # set when the GitHub release is published
-# doi: 10.5281/zenodo.XXXXXXX      # fill in after Zenodo archives the release; never invent a DOI
+date-released: 2026-10-17
+doi: 10.5281/zenodo.23434870
 repository-code: https://github.com/Simhaatt/nestkan
 license: CC-BY-4.0
 keywords:

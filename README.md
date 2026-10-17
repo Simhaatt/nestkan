@@ -1,5 +1,7 @@
 # NestKAN: A Nested Kolmogorov–Arnold Model for Discrete-Time Survival Data: reproducibility package
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.23434870.svg)](https://doi.org/10.5281/zenodo.23434870)
+
 Code for the paper *NestKAN: A Nested Kolmogorov–Arnold Model for Discrete-Time Survival Data* by Simhaa T. T. and Sudheesh Kumar Kattumannil.
 
 NestKAN is a discrete-time hazard model whose complementary log-log predictor nests the grouped-data Cox model, an additive spline model on empirical-distribution-scaled covariates, and a gated Kolmogorov–Arnold network surface in covariates and time.
@@ -61,7 +63,7 @@ Each benchmark stage was specified in `protocols/PROTOCOL_vX.md` before its resu
 
 ## Citation
 
-Please cite the archived release (DOI on the Zenodo record; see `CITATION.cff`) and the paper.
+Please cite the paper and the archived code: Simhaa T. T. and Sudheesh Kumar Kattumannil (2026). *NestKAN: A Nested Kolmogorov–Arnold Model for Discrete-Time Survival Data: reproducibility package* (v1.0.0). Zenodo. [doi:10.5281/zenodo.23434870](https://doi.org/10.5281/zenodo.23434870). This concept DOI always resolves to the latest version; v1.0.0 itself is [10.5281/zenodo.23434871](https://doi.org/10.5281/zenodo.23434871). See also `CITATION.cff`.
 
 ## Licence
 
